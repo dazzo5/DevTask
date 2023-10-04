@@ -1,3 +1,14 @@
+@media (max-width: 640px) {
+    /* Adjust styles for screens with a maximum width of 640px */
+    body {
+        font-size: 16px; /* Increase font size for better mobile readability */
+    }
+
+    header h1 {
+        font-size: 3em; /* Adjust header font size for mobile */
+    }
+}
+
 {
     box-sizing: border-box;
     margin: 0;
